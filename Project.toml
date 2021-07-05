@@ -1,5 +1,6 @@
 name = "KissThreading"
 uuid = "ece10b52-bc5d-5f9f-8b6e-cc9c6a4b5293"
+version = "0.1.0"
 
 [deps]
 Future = "9fa8497b-333b-5362-9e8d-4d0656e87820"
